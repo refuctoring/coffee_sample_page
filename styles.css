@@ -1,0 +1,29 @@
+body {
+  background: whitesmoke;
+}
+
+img {
+  height: 200px;
+}
+
+#hidden-div {
+  display: none;
+}
+
+.page-header {
+  margin-top: 100px;
+}
+
+.page-header p {
+  font-size: 20px;
+  text-align: right;
+}
+
+.page-header p span {
+  font-size: 30px;
+  color: #31b0d5;
+}
+
+#coffee-blink {
+  color: #5A352D;
+}
